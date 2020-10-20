@@ -1,0 +1,498 @@
+ 3053 instances of class Land vehicle with average precision: 0.65935868
+ 491 instances of class Seafood with average precision: 0.00000000
+ 136 instances of class Sushi with average precision: 0.00000000
+ 53 instances of class Crocodile with average precision: 0.00000000
+ 475 instances of class Rose with average precision: 0.00853215
+ 5825 instances of class Flower with average precision: 0.44161608
+ 1288 instances of class Dress with average precision: 0.45527469
+ 9567 instances of class Human hair with average precision: 0.24322658
+ 3622 instances of class Girl with average precision: 0.00004616
+ 471 instances of class Jeans with average precision: 0.02507096
+ 4767 instances of class Woman with average precision: 0.00271757
+ 8493 instances of class Man with average precision: 0.00246944
+ 5594 instances of class Human face with average precision: 1.01095225
+ 2613 instances of class Building with average precision: 0.70519488
+ 16753 instances of class Person with average precision: 1.20872625
+ 4499 instances of class Human nose with average precision: 0.27983116
+ 8765 instances of class Human head with average precision: 0.09586189
+ 5450 instances of class Human eye with average precision: 0.17975006
+ 2752 instances of class Human mouth with average precision: 0.27595290
+ 11711 instances of class Human arm with average precision: 0.20020281
+ 8077 instances of class Tree with average precision: 0.36562536
+ 1937 instances of class Dog with average precision: 0.00015058
+ 9924 instances of class Car with average precision: 0.01742352
+ 6742 instances of class Tire with average precision: 0.00062114
+ 14383 instances of class Wheel with average precision: 0.59662307
+ 632 instances of class Toy with average precision: 0.57614500
+ 68 instances of class Bronze sculpture with average precision: 0.00908304
+ 184 instances of class Sunglasses with average precision: 0.02717823
+ 5031 instances of class Human hand with average precision: 0.19608300
+ 184 instances of class Jacket with average precision: 0.26086958
+ 148 instances of class Goggles with average precision: 0.00647015
+ 1158 instances of class Dessert with average precision: 1.65551730
+ 122 instances of class Sheep with average precision: 0.00000000
+ 95 instances of class Goat with average precision: 0.00000000
+ 902 instances of class Bird with average precision: 0.00097900
+ 343 instances of class Ball with average precision: 0.19506409
+ 949 instances of class Table with average precision: 0.04549465
+ 32 instances of class Billiard table with average precision: 0.00000000
+ 9110 instances of class Footwear with average precision: 0.27691136
+ 33 instances of class Cabbage with average precision: 0.00000000
+ 84 instances of class Brassiere with average precision: 0.28005947
+ 369 instances of class Swimwear with average precision: 0.10084728
+ 294 instances of class Animal with average precision: 22.06243045
+ 987 instances of class Vehicle registration plate with average precision: 0.18877209
+ 303 instances of class Glasses with average precision: 0.12619917
+ 1095 instances of class Boy with average precision: 0.00390551
+ 1032 instances of class Airplane with average precision: 0.00096094
+ 25 instances of class Guacamole with average precision: 0.00000000
+ 268 instances of class Musical instrument with average precision: 1.16984011
+ 52 instances of class Swan with average precision: 0.00000000
+ 76 instances of class Pig with average precision: 0.00000000
+ 7583 instances of class Window with average precision: 0.07930601
+ 96 instances of class Train with average precision: 0.09537665
+ 1388 instances of class Tableware with average precision: 1.13495547
+ 53 instances of class Plumbing fixture with average precision: 0.01212938
+ 28 instances of class Raccoon with average precision: 0.00000000
+ 379 instances of class Trousers with average precision: 0.63812383
+ 390 instances of class Cake with average precision: 0.00000000
+ 604 instances of class Drink with average precision: 1.14021407
+ 5818 instances of class Human leg with average precision: 0.08333919
+ 115 instances of class Tie with average precision: 0.53875095
+ 415 instances of class Suit with average precision: 0.05279482
+ 54 instances of class Lobster with average precision: 0.00000000
+ 136 instances of class Shrimp with average precision: 0.00000000
+ 675 instances of class Fish with average precision: 0.00090709
+ 79 instances of class French fries with average precision: 0.00000000
+ 105 instances of class Hamburger with average precision: 0.00000000
+ 169 instances of class High heels with average precision: 0.00000000
+ 186 instances of class Boot with average precision: 0.00627240
+ 353 instances of class Poster with average precision: 0.32251172
+ 720 instances of class Book with average precision: 0.11286619
+ 2388 instances of class Vehicle with average precision: 4.49132824
+ 238 instances of class Lily with average precision: 0.00000000
+ 145 instances of class Coffee with average precision: 0.00000000
+ 21 instances of class Coffeemaker with average precision: 0.00000000
+ 148 instances of class Helicopter with average precision: 0.00000000
+ 758 instances of class House with average precision: 0.03716376
+ 27 instances of class Ladder with average precision: 0.00000000
+ 91 instances of class Jellyfish with average precision: 0.00000000
+ 287 instances of class Door with average precision: 0.22111487
+ 76 instances of class Pillow with average precision: 0.00146199
+ 125 instances of class Bed with average precision: 0.04624762
+ 226 instances of class Sandal with average precision: 0.00000000
+ 482 instances of class Human foot with average precision: 0.00000000
+ 16 instances of class Ruler with average precision: 0.00000000
+ 78 instances of class Sparrow with average precision: 0.00000000
+ 1189 instances of class Vegetable with average precision: 0.67875504
+ 128 instances of class Apple with average precision: 0.00000000
+ 66 instances of class Peach with average precision: 0.00000000
+ 93 instances of class Dolphin with average precision: 0.00000000
+ 21 instances of class Pretzel with average precision: 0.00000000
+ 569 instances of class Bread with average precision: 0.00000000
+ 248 instances of class Tower with average precision: 0.00827191
+ 1147 instances of class Human ear with average precision: 0.21308138
+ 92 instances of class Handbag with average precision: 0.00000000
+ 292 instances of class Sculpture with average precision: 1.05196697
+ 389 instances of class Cat with average precision: 0.00028563
+ 2195 instances of class Fruit with average precision: 0.15193867
+ 157 instances of class Pasta with average precision: 0.00000000
+ 62 instances of class Sea lion with average precision: 0.00000000
+ 52 instances of class Harbor seal with average precision: 0.00000000
+ 100 instances of class Computer monitor with average precision: 0.12983825
+ 44 instances of class Television with average precision: 0.00757576
+ 61 instances of class Necklace with average precision: 0.09597902
+ 520 instances of class Houseplant with average precision: 0.20618743
+ 406 instances of class Flowerpot with average precision: 0.28663875
+ 354 instances of class Truck with average precision: 0.00108568
+ 333 instances of class Weapon with average precision: 0.09219392
+ 395 instances of class Cookie with average precision: 0.00000000
+ 61 instances of class Couch with average precision: 0.00000000
+ 66 instances of class Snake with average precision: 0.00000000
+ 127 instances of class Box with average precision: 0.00000000
+ 999 instances of class Boat with average precision: 0.01098714
+ 57 instances of class Tortoise with average precision: 0.00000000
+ 41 instances of class Sea turtle with average precision: 0.00000000
+ 123 instances of class Chest of drawers with average precision: 0.00000000
+ 50 instances of class Filing cabinet with average precision: 0.00000000
+ 255 instances of class Drawer with average precision: 0.00344772
+ 214 instances of class Desk with average precision: 0.00000000
+ 174 instances of class Cupboard with average precision: 0.00000000
+ 146 instances of class Deer with average precision: 0.00000000
+ 185 instances of class Egg with average precision: 0.00000000
+ 229 instances of class Watercraft with average precision: 0.81771018
+ 491 instances of class Shelf with average precision: 0.00050931
+ 111 instances of class Cart with average precision: 0.00133467
+ 326 instances of class Shorts with average precision: 0.32129318
+ 35 instances of class Umbrella with average precision: 0.00000000
+ 24 instances of class Accordion with average precision: 0.00000000
+ 1274 instances of class Furniture with average precision: 1.49152023
+ 232 instances of class Motorcycle with average precision: 0.01193929
+ 178 instances of class Oyster with average precision: 0.00000000
+ 88 instances of class Penguin with average precision: 0.00000000
+ 27 instances of class Sword with average precision: 0.00000000
+ 50 instances of class Dagger with average precision: 0.00000000
+ 80 instances of class Knife with average precision: 0.00000000
+ 41 instances of class Fireplace with average precision: 0.00000000
+ 28 instances of class Wood-burning stove with average precision: 0.00000000
+ 9 instances of class Shower with average precision: 0.00000000
+ 77 instances of class Skateboard with average precision: 0.00000000
+ 27 instances of class Telephone with average precision: 4.02024939
+ 161 instances of class Swimming pool with average precision: 0.04489051
+ 270 instances of class Paddle with average precision: 0.00175756
+ 140 instances of class Shellfish with average precision: 0.00000000
+ 101 instances of class Candle with average precision: 0.00000000
+ 126 instances of class Doll with average precision: 0.01359530
+ 153 instances of class Camera with average precision: 1.80416700
+ 100 instances of class Piano with average precision: 0.00000000
+ 222 instances of class Human beard with average precision: 0.17268731
+ 106 instances of class Tart with average precision: 0.00000000
+ 99 instances of class Pizza with average precision: 0.00000000
+ 133 instances of class Antelope with average precision: 0.00000000
+ 129 instances of class Parachute with average precision: 0.00000000
+ 330 instances of class Strawberry with average precision: 0.00003695
+ 70 instances of class Laptop with average precision: 0.92707859
+ 29 instances of class Organ with average precision: 0.00000000
+ 37 instances of class Castle with average precision: 0.00000000
+ 12 instances of class Frying pan with average precision: 0.00000000
+ 38 instances of class Wok with average precision: 0.00000000
+ 197 instances of class Van with average precision: 0.00908001
+ 498 instances of class Bottle with average precision: 0.13540140
+ 264 instances of class Wine with average precision: 0.00072091
+ 163 instances of class Lifejacket with average precision: 0.00000000
+ 198 instances of class Office supplies with average precision: 1.17358817
+ 89 instances of class Parrot with average precision: 0.00000000
+ 19 instances of class Volleyball with average precision: 0.00000000
+ 100 instances of class Coin with average precision: 0.00000000
+ 32 instances of class Kitchen knife with average precision: 0.00000000
+ 32 instances of class Backpack with average precision: 0.00000000
+ 417 instances of class Horse with average precision: 0.20621391
+ 133 instances of class Beer with average precision: 0.00000000
+ 70 instances of class Football with average precision: 0.00000000
+ 30 instances of class Turkey with average precision: 0.00000000
+ 94 instances of class Convenience store with average precision: 0.00080289
+ 390 instances of class Candy with average precision: 0.00000000
+ 31 instances of class Artichoke with average precision: 0.00000000
+ 583 instances of class Helmet with average precision: 0.54010209
+ 90 instances of class Shark with average precision: 0.00000000
+ 139 instances of class Kitchen appliance with average precision: 0.00119904
+ 140 instances of class Home appliance with average precision: 0.05302509
+ 68 instances of class Countertop with average precision: 0.00000000
+ 190 instances of class Lemon with average precision: 0.00000000
+ 318 instances of class Salad with average precision: 0.00000000
+ 418 instances of class Bicycle with average precision: 0.04504631
+ 780 instances of class Bicycle wheel with average precision: 0.29716969
+ 52 instances of class Cowboy hat with average precision: 0.00000000
+ 83 instances of class Fedora with average precision: 0.00602410
+ 17 instances of class Ambulance with average precision: 0.00000000
+ 54 instances of class Taco with average precision: 0.00000000
+ 50 instances of class Fork with average precision: 0.00000000
+ 62 instances of class Tank with average precision: 0.00000000
+ 189 instances of class Aircraft with average precision: 0.68869530
+ 72 instances of class Crab with average precision: 0.00000000
+ 540 instances of class Sports uniform with average precision: 0.00750856
+ 310 instances of class Roller skates with average precision: 0.00000000
+ 67 instances of class Computer keyboard with average precision: 0.18836521
+ 95 instances of class Street light with average precision: 0.01337960
+ 23 instances of class Bear with average precision: 0.00000000
+ 36 instances of class Oven with average precision: 0.00000000
+ 30 instances of class Microwave oven with average precision: 0.00000000
+ 14 instances of class Tiara with average precision: 0.00000000
+ 24 instances of class Crown with average precision: 0.00000000
+ 21 instances of class Snowplow with average precision: 0.00000000
+ 138 instances of class Mushroom with average precision: 0.00000000
+ 135 instances of class Rifle with average precision: 0.06071555
+ 54 instances of class Shotgun with average precision: 0.00000000
+ 34 instances of class Ostrich with average precision: 0.00000000
+ 104 instances of class Canoe with average precision: 0.00090401
+ 200 instances of class Hat with average precision: 1.46689720
+ 32 instances of class Kangaroo with average precision: 0.00000000
+ 93 instances of class Marine invertebrates with average precision: 0.00204953
+ 207 instances of class Goose with average precision: 0.00674446
+ 149 instances of class Duck with average precision: 0.00000000
+ 2 instances of class Crutch with average precision: 0.00000000
+ 134 instances of class Skyscraper with average precision: 0.00248756
+ 300 instances of class Carnivore with average precision: 0.13932911
+ 65 instances of class Spider with average precision: 0.00000000
+ 250 instances of class Insect with average precision: 0.00505917
+ 198 instances of class Monkey with average precision: 0.00053524
+ 137 instances of class Balloon with average precision: 0.01795440
+ 137 instances of class Ice cream with average precision: 0.00000000
+ 24 instances of class Mouse with average precision: 0.00000000
+ 71 instances of class Bagel with average precision: 0.00000000
+ 81 instances of class Barrel with average precision: 0.00000000
+ 70 instances of class Whale with average precision: 0.00000000
+ 40 instances of class Snail with average precision: 0.00000000
+ 140 instances of class Microphone with average precision: 0.32106664
+ 61 instances of class Sofa bed with average precision: 0.00000000
+ 58 instances of class studio couch with average precision: 0.00000000
+ 151 instances of class Cucumber with average precision: 0.00000000
+ 86 instances of class Zucchini with average precision: 0.00000000
+ 27 instances of class Jug with average precision: 0.00000000
+ 25 instances of class Pineapple with average precision: 0.00000000
+ 130 instances of class Flag with average precision: 0.40834130
+ 223 instances of class Football helmet with average precision: 0.00000000
+ 121 instances of class Drum with average precision: 0.02231403
+ 72 instances of class Chicken with average precision: 0.00000000
+ 119 instances of class Guitar with average precision: 0.21709269
+ 26 instances of class Banana with average precision: 0.00000000
+ 70 instances of class Swim cap with average precision: 0.00000000
+ 147 instances of class Mobile phone with average precision: 0.72072528
+ 25 instances of class Sewing machine with average precision: 0.00000000
+ 117 instances of class Wheelchair with average precision: 0.00011871
+ 35 instances of class Table tennis racket with average precision: 0.00000000
+ 176 instances of class Orange with average precision: 0.00000000
+ 380 instances of class Palm tree with average precision: 0.02778521
+ 27 instances of class Coconut with average precision: 0.00000000
+ 80 instances of class Sandwich with average precision: 0.00000000
+ 159 instances of class Grapefruit with average precision: 0.00000000
+ 62 instances of class Beetle with average precision: 0.00067204
+ 63 instances of class Pen with average precision: 0.00000000
+ 124 instances of class Bull with average precision: 0.00000000
+ 52 instances of class Dice with average precision: 0.00000000
+ 16 instances of class Rocket with average precision: 0.00000000
+ 118 instances of class Bookcase with average precision: 0.04129046
+ 37 instances of class Toilet with average precision: 0.00000000
+ 30 instances of class Kite with average precision: 0.00000000
+ 187 instances of class Bicycle helmet with average precision: 0.01069519
+ 47 instances of class Leopard with average precision: 0.00000000
+ 306 instances of class Lavender with average precision: 0.00000000
+ 55 instances of class Mouse with average precision: 0.00000000
+ 34 instances of class Hamster with average precision: 0.00000000
+ 22 instances of class Starfish with average precision: 0.00000000
+ 57 instances of class Nightstand with average precision: 0.01754386
+ 26 instances of class Mechanical fan with average precision: 0.00000000
+ 6 instances of class Flashlight with average precision: 0.00000000
+ 87 instances of class Ski with average precision: 0.00000000
+ 130 instances of class Muffin with average precision: 0.00000000
+ 82 instances of class Bowl with average precision: 0.00000000
+ 26 instances of class Seahorse with average precision: 0.00000000
+ 259 instances of class Cattle with average precision: 0.00000000
+ 13 instances of class Tablet computer with average precision: 0.00000000
+ 41 instances of class Burrito with average precision: 0.00000000
+ 48 instances of class Otter with average precision: 0.00000000
+ 56 instances of class Elephant with average precision: 0.00000000
+ 44 instances of class Submarine sandwich with average precision: 0.00000000
+ 71 instances of class Sun hat with average precision: 0.00000000
+ 827 instances of class Chair with average precision: 0.01225941
+ 33 instances of class Suitcase with average precision: 0.00000000
+ 30 instances of class Owl with average precision: 0.00000000
+ 158 instances of class Grape with average precision: 0.00000000
+ 30 instances of class Camel with average precision: 0.00000000
+ 26 instances of class Porcupine with average precision: 0.00000000
+ 91 instances of class Platter with average precision: 0.00000000
+ 111 instances of class Saucer with average precision: 0.00000000
+ 92 instances of class Plate with average precision: 0.00192308
+ 25 instances of class Bust with average precision: 0.00000000
+ 8 instances of class Snowmobile with average precision: 0.00000000
+ 67 instances of class Marine mammal with average precision: 0.00497512
+ 109 instances of class Lizard with average precision: 0.00000000
+ 79 instances of class Lamp with average precision: 0.00000000
+ 423 instances of class Tomato with average precision: 0.00000775
+ 90 instances of class Bee with average precision: 0.00000000
+ 21 instances of class Bidet with average precision: 0.00000000
+ 47 instances of class Mug with average precision: 0.00000000
+ 189 instances of class Coffee cup with average precision: 0.00176367
+ 90 instances of class Tea with average precision: 0.00000000
+ 30 instances of class Ant with average precision: 0.00000000
+ 95 instances of class Shirt with average precision: 0.72481201
+ 44 instances of class Fox with average precision: 0.00000000
+ 215 instances of class Cocktail with average precision: 0.00465116
+ 243 instances of class Juice with average precision: 0.00000000
+ 9 instances of class Drinking straw with average precision: 0.00000000
+ 112 instances of class Carrot with average precision: 0.00000000
+ 23 instances of class Tiger with average precision: 0.00000000
+ 37 instances of class Billboard with average precision: 0.10534220
+ 65 instances of class Lion with average precision: 0.00000000
+ 100 instances of class Vase with average precision: 0.00000000
+ 71 instances of class Rabbit with average precision: 0.00000000
+ 103 instances of class Bus with average precision: 0.02822550
+ 82 instances of class Doughnut with average precision: 0.00000000
+ 40 instances of class Tripod with average precision: 0.02500000
+ 66 instances of class Curtain with average precision: 0.00000000
+ 29 instances of class Maple with average precision: 0.10344828
+ 100 instances of class Taxi with average precision: 0.00000000
+ 24 instances of class Pitcher with average precision: 0.00000000
+ 35 instances of class Kettle with average precision: 0.00000000
+ 46 instances of class Teapot with average precision: 0.00000000
+ 150 instances of class Wine glass with average precision: 0.00108025
+ 40 instances of class Jaguar with average precision: 0.00000000
+ 35 instances of class Cheetah with average precision: 0.00000000
+ 90 instances of class Bell pepper with average precision: 0.00000000
+ 38 instances of class Canary with average precision: 0.00000000
+ 76 instances of class Butterfly with average precision: 0.00109649
+ 53 instances of class Pumpkin with average precision: 0.00235849
+ 18 instances of class Pear with average precision: 0.00000000
+ 50 instances of class Broccoli with average precision: 0.00500000
+ 39 instances of class Miniskirt with average precision: 0.05769231
+ 45 instances of class Stairs with average precision: 0.02330623
+ 30 instances of class Waste container with average precision: 0.00000000
+ 46 instances of class Traffic sign with average precision: 0.64719549
+ 38 instances of class Blue jay with average precision: 0.00000000
+ 72 instances of class Tin can with average precision: 0.00000000
+ 20 instances of class Wall clock with average precision: 0.00000000
+ 56 instances of class Eagle with average precision: 0.00000000
+ 24 instances of class Handgun with average precision: 0.00000000
+ 9 instances of class Golf cart with average precision: 0.00000000
+ 45 instances of class Zebra with average precision: 0.00000000
+ 25 instances of class Giraffe with average precision: 0.00000000
+ 16 instances of class Window blind with average precision: 0.00000000
+ 35 instances of class Watermelon with average precision: 0.00000000
+ 89 instances of class Mule with average precision: 0.00000000
+ 35 instances of class Alpaca with average precision: 0.00000000
+ 128 instances of class Invertebrate with average precision: 0.48689273
+ 30 instances of class Tennis racket with average precision: 0.00000000
+ 27 instances of class Lantern with average precision: 0.00000000
+ 95 instances of class Squash with average precision: 0.00061920
+ 11 instances of class Honeycomb with average precision: 0.00000000
+ 27 instances of class Beehive with average precision: 0.00000000
+ 220 instances of class Cabinetry with average precision: 0.00609580
+ 35 instances of class Polar bear with average precision: 0.00000000
+ 40 instances of class Headphones with average precision: 0.00000000
+ 65 instances of class Picture frame with average precision: 0.48287593
+ 9 instances of class Food processor with average precision: 0.00000000
+ 10 instances of class Blender with average precision: 0.00000000
+ 14 instances of class Mixer with average precision: 0.00000000
+ 38 instances of class Cello with average precision: 0.00000000
+ 36 instances of class Violin with average precision: 0.00000000
+ 46 instances of class Squirrel with average precision: 0.00167224
+ 33 instances of class Harpsichord with average precision: 0.00000000
+ 63 instances of class Ladybug with average precision: 0.00000000
+ 52 instances of class Falcon with average precision: 0.00000000
+ 89 instances of class Coat with average precision: 0.01310861
+ 73 instances of class Spoon with average precision: 0.00000000
+ 4 instances of class Spatula with average precision: 0.00000000
+ 30 instances of class Teddy bear with average precision: 0.00000000
+ 41 instances of class Dinosaur with average precision: 0.00000000
+ 31 instances of class Skull with average precision: 0.00000000
+ 38 instances of class Scarf with average precision: 0.03630576
+ 103 instances of class Croissant with average precision: 0.00000000
+ 56 instances of class Coffee table with average precision: 0.00000000
+ 18 instances of class Chopsticks with average precision: 0.00000000
+ 15 instances of class Fire hydrant with average precision: 0.00000000
+ 57 instances of class Sink with average precision: 0.00000000
+ 63 instances of class Tap with average precision: 0.00000000
+ 16 instances of class Centipede with average precision: 0.00000000
+ 36 instances of class Caterpillar with average precision: 0.00000000
+ 8 instances of class Digital clock with average precision: 0.00000000
+ 1 instances of class Toaster with average precision: 0.00000000
+ 78 instances of class Surfboard with average precision: 0.00320513
+ 39 instances of class Tent with average precision: 0.01099812
+ 82 instances of class Sunflower with average precision: 0.00000000
+ 3 instances of class Cake stand with average precision: 0.00000000
+ 17 instances of class Sock with average precision: 0.00000000
+ 27 instances of class Gondola with average precision: 0.00000000
+ 64 instances of class Horn with average precision: 0.00000000
+ 65 instances of class Trumpet with average precision: 0.00000000
+ 17 instances of class Brown bear with average precision: 0.00000000
+ 31 instances of class Watch with average precision: 0.03225806
+ 9 instances of class Bench with average precision: 0.02777778
+ 53 instances of class Musical keyboard with average precision: 0.00000000
+ 15 instances of class Tennis ball with average precision: 0.00000000
+ 52 instances of class Porch with average precision: 0.00000000
+ 23 instances of class Gas stove with average precision: 0.00000000
+ 14 instances of class Flute with average precision: 0.00000000
+ 32 instances of class Reptile with average precision: 0.06096297
+ 31 instances of class Missile with average precision: 0.00000000
+ 36 instances of class Door handle with average precision: 0.00000000
+ 24 instances of class Clock with average precision: 0.18253126
+ 71 instances of class Raven with average precision: 0.00000000
+ 40 instances of class Saxophone with average precision: 0.00000000
+ 18 instances of class Pomegranate with average precision: 0.00000000
+ 13 instances of class Stop sign with average precision: 0.00000000
+ 8 instances of class Dog bed with average precision: 0.00000000
+ 14 instances of class Golf ball with average precision: 0.00000000
+ 22 instances of class Loveseat with average precision: 0.00000000
+ 78 instances of class Office building with average precision: 0.12406155
+ 25 instances of class Waffle with average precision: 0.00000000
+ 36 instances of class Asparagus with average precision: 0.00000000
+ 21 instances of class Printer with average precision: 0.00000000
+ 25 instances of class Radish with average precision: 0.00000000
+ 17 instances of class Hot dog with average precision: 0.00000000
+ 35 instances of class Limousine with average precision: 0.00000000
+ 17 instances of class Dragonfly with average precision: 0.00000000
+ 9 instances of class Plastic bag with average precision: 0.00000000
+ 33 instances of class Mirror with average precision: 0.00000000
+ 27 instances of class Woodpecker with average precision: 0.00000000
+ 22 instances of class Cannon with average precision: 0.00000000
+ 65 instances of class Traffic light with average precision: 0.00902564
+ 2 instances of class Bench with average precision: 0.00000000
+ 84 instances of class Glove with average precision: 0.00238095
+ 9 instances of class Seat belt with average precision: 0.00000000
+ 9 instances of class Towel with average precision: 0.00000000
+ 68 instances of class Potato with average precision: 0.00000000
+ 18 instances of class Jet ski with average precision: 0.00000000
+ 13 instances of class Picnic basket with average precision: 0.00000000
+ 40 instances of class Washing machine with average precision: 0.00000000
+ 85 instances of class Pancake with average precision: 0.00000000
+ 7 instances of class Bat with average precision: 0.00000000
+ 8 instances of class Barge with average precision: 0.00000000
+ 18 instances of class Harp with average precision: 0.00000000
+ 8 instances of class Turtle with average precision: 0.00000000
+ 29 instances of class Bow and arrow with average precision: 0.00000000
+ 48 instances of class Frog with average precision: 0.00000000
+ 64 instances of class Goldfish with average precision: 0.00000000
+ 10 instances of class Stationary bicycle with average precision: 0.00000000
+ 7 instances of class Corded phone with average precision: 0.00000000
+ 81 instances of class Luggage and bags with average precision: 0.02004511
+ 76 instances of class Kitchen & dining room table with average precision: 0.00000000
+ 30 instances of class Trombone with average precision: 0.00000000
+ 21 instances of class Rhinoceros with average precision: 0.00000000
+ 19 instances of class Moths and butterflies with average precision: 0.02807018
+ 23 instances of class Snowboard with average precision: 0.00000000
+ 11 instances of class Lighthouse with average precision: 0.00000000
+ 22 instances of class Baseball bat with average precision: 0.00000000
+ 19 instances of class Bathroom cabinet with average precision: 0.00000000
+ 34 instances of class Segway with average precision: 0.00000000
+ 7 instances of class Briefcase with average precision: 0.00000000
+ 25 instances of class Infant bed with average precision: 0.00000000
+ 19 instances of class Sombrero with average precision: 0.00000000
+ 37 instances of class Baseball glove with average precision: 0.00000000
+ 46 instances of class Light bulb with average precision: 0.00000000
+ 63 instances of class Christmas tree with average precision: 0.14155474
+ 9 instances of class Treadmill with average precision: 0.00000000
+ 14 instances of class Belt with average precision: 0.00000000
+ 31 instances of class Lynx with average precision: 0.00000000
+ 24 instances of class Common fig with average precision: 0.00000000
+ 3 instances of class Screwdriver with average precision: 0.00000000
+ 18 instances of class Bathtub with average precision: 0.00000000
+ 52 instances of class Personal care with average precision: 4.85012673
+ 24 instances of class Fountain with average precision: 0.02083333
+ 20 instances of class Whiteboard with average precision: 0.00000000
+ 10 instances of class Rugby ball with average precision: 0.00000000
+ 13 instances of class Mango with average precision: 0.00000000
+ 10 instances of class Alarm clock with average precision: 0.00000000
+ 6 instances of class Oboe with average precision: 0.00000000
+ 20 instances of class Popcorn with average precision: 0.00000000
+ 7 instances of class Binoculars with average precision: 0.00000000
+ 2 instances of class Slow cooker with average precision: 0.00000000
+ 9 instances of class Willow with average precision: 0.00000000
+ 4 instances of class Salt and pepper shakers with average precision: 0.00000000
+ 13 instances of class Scoreboard with average precision: 0.00000000
+ 30 instances of class Skirt with average precision: 0.58243162
+ 11 instances of class Ceiling fan with average precision: 0.00000000
+ 1 instances of class Tick with average precision: 0.00000000
+ 33 instances of class Earrings with average precision: 0.00000000
+ 26 instances of class Refrigerator with average precision: 0.00000000
+ 7 instances of class Envelope with average precision: 0.00000000
+ 36 instances of class Nail with average precision: 0.00000000
+ 4 instances of class Snowman with average precision: 0.00000000
+ 36 instances of class Racket with average precision: 0.00000000
+ 6 instances of class Stretcher with average precision: 0.00000000
+ 12 instances of class Light switch with average precision: 0.00000000
+ 10 instances of class Cutting board with average precision: 0.00000000
+ 32 instances of class Stool with average precision: 0.00000000
+ 3 instances of class Cricket ball with average precision: 0.00000000
+ 21 instances of class Power plugs and sockets with average precision: 0.00000000
+ 11 instances of class Winter melon with average precision: 0.00000000
+ 7 instances of class Serving tray with average precision: 0.00000000
+ 2 instances of class Torch with average precision: 0.00000000
+ 1 instances of class Scissors with average precision: 0.00000000
+ 13 instances of class Dumbbell with average precision: 0.00000000
+ 1 instances of class Pressure cooker with average precision: 0.00000000
+ 5 instances of class Toilet paper with average precision: 0.00000000
+ 1 instances of class Wrench with average precision: 0.00000000
+ 2 instances of class Paper towel with average precision: 0.00000000
+ 1 instances of class Adhesive tape with average precision: 0.00000000
+ 1 instances of class Punching bag with average precision: 0.00000000
+mean ap: 0.14340145
